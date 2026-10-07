@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=rosemary&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20things%20the%20internet%20probably%20doesn't%20need&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Natalie&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20things%20the%20internet%20probably%20doesn't%20need&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Builder+%E2%86%92+Incoming+%40+OpenAI;Shipping+things+that+probably+shouldn't+exist;Currently+debugging+reality" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://x.com/rosemary233"><img src="https://img.shields.io/badge/X-@rosemary233-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/natdotgx"><img src="https://img.shields.io/badge/X-@natdotgx-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Status-Incoming%20@%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=rosemarydev&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=NatalieGX&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -88,13 +88,13 @@ The official Python library for the OpenAI API.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rosemarydev&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=NatalieGX&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/rosemarydev?style=for-the-badge&color=8B5CF6&labelColor=1a1b27"/>
+<img src="https://img.shields.io/github/followers/NatalieGX?style=for-the-badge&color=8B5CF6&labelColor=1a1b27"/>
 
 </div>
 
@@ -104,7 +104,7 @@ The official Python library for the OpenAI API.
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/8B5CF6/rosemarydev" width="100%"/>
+<img src="https://ghchart.rshah.org/8B5CF6/NatalieGX" width="100%"/>
 
 </div>
 
